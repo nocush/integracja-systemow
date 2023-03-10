@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mateuszbartoszek/Projects/IS_Lab1_XML/IS_Lab1_XML/IS_Lab1_XML.csproj": {}
+    "/Users/mateuszbartoszek/Documents/GitHub/integracja-systemow/IS_Lab1_XML/IS_Lab1_XML/IS_Lab1_XML.csproj": {}
   },
   "projects": {
-    "/Users/mateuszbartoszek/Projects/IS_Lab1_XML/IS_Lab1_XML/IS_Lab1_XML.csproj": {
+    "/Users/mateuszbartoszek/Documents/GitHub/integracja-systemow/IS_Lab1_XML/IS_Lab1_XML/IS_Lab1_XML.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mateuszbartoszek/Projects/IS_Lab1_XML/IS_Lab1_XML/IS_Lab1_XML.csproj",
+        "projectUniqueName": "/Users/mateuszbartoszek/Documents/GitHub/integracja-systemow/IS_Lab1_XML/IS_Lab1_XML/IS_Lab1_XML.csproj",
         "projectName": "IS_Lab1_XML",
-        "projectPath": "/Users/mateuszbartoszek/Projects/IS_Lab1_XML/IS_Lab1_XML/IS_Lab1_XML.csproj",
+        "projectPath": "/Users/mateuszbartoszek/Documents/GitHub/integracja-systemow/IS_Lab1_XML/IS_Lab1_XML/IS_Lab1_XML.csproj",
         "packagesPath": "/Users/mateuszbartoszek/.nuget/packages/",
-        "outputPath": "/Users/mateuszbartoszek/Projects/IS_Lab1_XML/IS_Lab1_XML/obj/",
+        "outputPath": "/Users/mateuszbartoszek/Documents/GitHub/integracja-systemow/IS_Lab1_XML/IS_Lab1_XML/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mateuszbartoszek/.nuget/NuGet/NuGet.Config"

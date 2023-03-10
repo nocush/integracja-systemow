@@ -1,13 +1,12 @@
 ﻿<Properties StartupConfiguration="{C77E1D25-C329-4732-A99C-60A74499A4CA}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="IS_Lab1_XML/XMLReadWithXLSTDOM.cs">
     <Files>
       <File FileName="IS_Lab1_XML/Program.cs" />
       <File FileName="IS_Lab1_XML/Assets/data.xml" />
-      <File FileName="IS_Lab1_XML/XMLReadWithDOMApproach.cs" Line="16" Column="1" />
-      <File FileName="IS_Lab1_XML/Helpers/ProductManager.cs" Line="75" Column="1" />
+      <File FileName="IS_Lab1_XML/XMLReadWithDOMApproach.cs" />
+      <File FileName="IS_Lab1_XML/Helpers/ProductManager.cs" />
       <File FileName="IS_Lab1_XML/Helpers/MedicalProduct.cs" />
-      <File FileName="IS_Lab1_XML/XMLReadWithSAXApproach.cs" Line="36" Column="32" />
+      <File FileName="IS_Lab1_XML/XMLReadWithSAXApproach.cs" />
       <File FileName="IS_Lab1_XML/XMLReadWithXLSTDOM.cs" Line="14" Column="92" />
       <File FileName="IS_Lab1_XML/DeeperAnalysis.cs" />
     </Files>
@@ -25,10 +24,11 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.IS__Lab1__XML PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.IS__Lab1__XML PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
