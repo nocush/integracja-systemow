@@ -1,0 +1,16 @@
+/Users/mateuszbartoszek/Projects/IS_Lab1_XML/IS_Lab1_XML/obj/Debug/net6.0/IS_Lab1_XML.csproj.AssemblyReference.cache
+/Users/mateuszbartoszek/Projects/IS_Lab1_XML/IS_Lab1_XML/obj/Debug/net6.0/IS_Lab1_XML.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mateuszbartoszek/Projects/IS_Lab1_XML/IS_Lab1_XML/obj/Debug/net6.0/IS_Lab1_XML.AssemblyInfoInputs.cache
+/Users/mateuszbartoszek/Projects/IS_Lab1_XML/IS_Lab1_XML/obj/Debug/net6.0/IS_Lab1_XML.AssemblyInfo.cs
+/Users/mateuszbartoszek/Projects/IS_Lab1_XML/IS_Lab1_XML/obj/Debug/net6.0/IS_Lab1_XML.csproj.CoreCompileInputs.cache
+/Users/mateuszbartoszek/Projects/IS_Lab1_XML/IS_Lab1_XML/bin/Debug/net6.0/IS_Lab1_XML
+/Users/mateuszbartoszek/Projects/IS_Lab1_XML/IS_Lab1_XML/bin/Debug/net6.0/Assets/data.xml
+/Users/mateuszbartoszek/Projects/IS_Lab1_XML/IS_Lab1_XML/bin/Debug/net6.0/IS_Lab1_XML.deps.json
+/Users/mateuszbartoszek/Projects/IS_Lab1_XML/IS_Lab1_XML/bin/Debug/net6.0/IS_Lab1_XML.runtimeconfig.json
+/Users/mateuszbartoszek/Projects/IS_Lab1_XML/IS_Lab1_XML/bin/Debug/net6.0/IS_Lab1_XML.dll
+/Users/mateuszbartoszek/Projects/IS_Lab1_XML/IS_Lab1_XML/bin/Debug/net6.0/IS_Lab1_XML.pdb
+/Users/mateuszbartoszek/Projects/IS_Lab1_XML/IS_Lab1_XML/obj/Debug/net6.0/IS_Lab1_XML.dll
+/Users/mateuszbartoszek/Projects/IS_Lab1_XML/IS_Lab1_XML/obj/Debug/net6.0/refint/IS_Lab1_XML.dll
+/Users/mateuszbartoszek/Projects/IS_Lab1_XML/IS_Lab1_XML/obj/Debug/net6.0/IS_Lab1_XML.pdb
+/Users/mateuszbartoszek/Projects/IS_Lab1_XML/IS_Lab1_XML/obj/Debug/net6.0/IS_Lab1_XML.genruntimeconfig.cache
+/Users/mateuszbartoszek/Projects/IS_Lab1_XML/IS_Lab1_XML/obj/Debug/net6.0/ref/IS_Lab1_XML.dll
