@@ -1,0 +1,97 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "IS_Lab2_JSON/1.0.0": {
+        "dependencies": {
+          "C1.TextParser": "4.7.20213.91",
+          "Newtonsoft.Json": "13.0.3",
+          "YamlDotNet": "13.0.2"
+        },
+        "runtime": {
+          "IS_Lab2_JSON.dll": {}
+        }
+      },
+      "C1.TextParser/4.7.20213.91": {
+        "dependencies": {
+          "HtmlAgilityPack": "1.11.24",
+          "Newtonsoft.Json": "13.0.3"
+        },
+        "runtime": {
+          "lib/netstandard2.0/C1.TextParser.dll": {
+            "assemblyVersion": "4.7.20213.91",
+            "fileVersion": "4.7.20213.91"
+          }
+        },
+        "resources": {
+          "lib/netstandard2.0/ja/C1.TextParser.resources.dll": {
+            "locale": "ja"
+          }
+        }
+      },
+      "HtmlAgilityPack/1.11.24": {
+        "runtime": {
+          "lib/netstandard2.0/HtmlAgilityPack.dll": {
+            "assemblyVersion": "1.11.24.0",
+            "fileVersion": "1.11.24.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.3": {
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.3.27908"
+          }
+        }
+      },
+      "YamlDotNet/13.0.2": {
+        "runtime": {
+          "lib/net6.0/YamlDotNet.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IS_Lab2_JSON/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "C1.TextParser/4.7.20213.91": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9oxMUkLCgnplc34nh6P+nCXG3FEpSrGNnDPpwfZwEkH0sWnEYlmFcZbh50hzQWnvrPHBOppOMOFD2tJZHYiZGg==",
+      "path": "c1.textparser/4.7.20213.91",
+      "hashPath": "c1.textparser.4.7.20213.91.nupkg.sha512"
+    },
+    "HtmlAgilityPack/1.11.24": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DLcytINO8EfCdBgMGsaz8Tvdgu2Aewoo2XX7WfZuRG9cBQRtbm8JZ4/sMRtFvzehjdIDqubdlQb8TqNfjRMEWg==",
+      "path": "htmlagilitypack/1.11.24",
+      "hashPath": "htmlagilitypack.1.11.24.nupkg.sha512"
+    },
+    "Newtonsoft.Json/13.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
+      "path": "newtonsoft.json/13.0.3",
+      "hashPath": "newtonsoft.json.13.0.3.nupkg.sha512"
+    },
+    "YamlDotNet/13.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hRPqCt2bxTvHN6iT2JNG2KznDPFgD5B6j0bQ7woSpfGctmjgAYdKQ+LYHUaj/7q8sN1AbIcTNbaO75g8IFmTjw==",
+      "path": "yamldotnet/13.0.2",
+      "hashPath": "yamldotnet.13.0.2.nupkg.sha512"
+    }
+  }
+}

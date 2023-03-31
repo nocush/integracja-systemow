@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)c1.textparser\4.7.20213.91\buildTransitive\netstandard2.0\C1.TextParser.targets" Condition="Exists('$(NuGetPackageRoot)c1.textparser\4.7.20213.91\buildTransitive\netstandard2.0\C1.TextParser.targets')" />
+  </ImportGroup>
+</Project>

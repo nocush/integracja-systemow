@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "8ub0pZ9Dz6YQeeKrLD8x7tSYIk9IwVApOQp5RTdbEvyE8Z+n+8wUAk+znlKHlPbaGULCi5eQqDYJNITjf9tQDg==",
+  "success": true,
+  "projectFilePath": "D:\\GitHub\\integracja-systemow\\Lab2\\C#\\IS_Lab2_JSON\\IS_Lab2_JSON\\IS_Lab2_JSON.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\matim\\.nuget\\packages\\c1.textparser\\4.7.20213.91\\c1.textparser.4.7.20213.91.nupkg.sha512",
+    "C:\\Users\\matim\\.nuget\\packages\\htmlagilitypack\\1.11.24\\htmlagilitypack.1.11.24.nupkg.sha512",
+    "C:\\Users\\matim\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\matim\\.nuget\\packages\\yamldotnet\\13.0.2\\yamldotnet.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
