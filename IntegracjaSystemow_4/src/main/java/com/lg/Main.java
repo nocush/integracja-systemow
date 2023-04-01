@@ -29,7 +29,7 @@ public class Main {
         //UZYTKOWNICY
         User user1 = new User(null, "test1", "test1", "Jan" , "Brzechwa", Sex.sex.MALE);
         entityManager.persist(user1);
-        User user2 = new User(null, "test2", "test2", "Adam", "Nowak", Sex.sex.MALE );
+        User user2 = new User(null, "test2", "test2", "Adam", "Kowalski", Sex.sex.MALE );
         entityManager.persist(user2);
         User user3 = new User(null, "test3", "test3", "Katarzyna", "Kowalska", Sex.sex.FEMALE);
         entityManager.persist(user3);
@@ -44,15 +44,20 @@ public class Main {
 
         //Kowalscy
         System.out.println("Kowalscy");
-        List<User> kowalscy = entityManager.createQuery("SELECT u FROM User u WHERE u.lastName = 'Kowalski' OR u.lastName = 'Kowalska'", User.class).getResultList();
-        kowalscy.forEach(System.out::println);
+        List<User> kowalscy = entityManager.createQuery("SELECT u FROM User u WHERE u.lastName = 'Kowalski'", User.class).getResultList();
+        for (User kowalski : kowalscy){
+            System.out.println(kowalski.getFirstName()+" "+kowalski.getLastName());
+        }
         //usuniecie roli o id 5
         Role role = entityManager.find(Role.class, 5L);
         entityManager.remove(role);
 
         //wszystkie kobiety
         System.out.println("Kobiety");
-        entityManager.createQuery("SELECT u FROM User u WHERE u.gender = 'FEMALE'",User.class).getResultList().forEach(System.out::println);
+        List<User> females = entityManager.createQuery("SELECT u FROM User u WHERE u.gender = 'FEMALE'",User.class).getResultList();
+        for (User female : females){
+            System.out.println(female.getFirstName()+" "+female.getLastName());
+        }
 
         User user6 = new User(null, "test6","test6","Barnaba","Nikowiecki", Sex.sex.MALE);
         user6.addRole(role1);
