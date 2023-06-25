@@ -1,0 +1,3 @@
+Po pewnym czasie przeprowadzania testów maszyna zaczynała się przeciążać,
+co powodowało pojawieniem się błędów z wiadomością: Address already in use: connect.
+We wszytkich błędach poza update pojawił się przynajmniej jeden błąd.
