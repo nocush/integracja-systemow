@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{DC2E8798-ED41-4760-A8F8-BE7A00C5F63B}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.WebApplication PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApplication/Controllers/NumberController.cs">
+    <Files>
+      <File FileName="WebApplication/Services/Users/UserServiceImpl.cs" Line="44" Column="6" />
+      <File FileName="WebApplication/Controllers/UsersController.cs" Line="48" Column="38" />
+      <File FileName="WebApplication/Controllers/NumberController.cs" Line="22" Column="2" />
+      <File FileName="WebApplication/Entities/Role.cs" Line="1" Column="1" />
+      <File FileName="WebApplication/Entities/User.cs" Line="1" Column="1" />
+      <File FileName="WebApplication/Model/AuthenticationRequest.cs" Line="1" Column="1" />
+      <File FileName="WebApplication/Model/AuthenticationResponse.cs" Line="1" Column="1" />
+      <File FileName="WebApplication/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="WebApplication/Services/Users/IUserService.cs" Line="18" Column="2" />
+      <File FileName="WebApplication/appsettings.json" Line="1" Column="1" />
+      <File FileName="WebApplication/Program.cs" Line="1" Column="1" />
+      <File FileName="WebApplication/Startup.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IntegracjaSystemow8" expanded="True">
+            <Node name="WebApplication" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="NumberController.cs" selected="True" />
+              </Node>
+              <Node name="Entities" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="Users" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
